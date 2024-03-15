@@ -1,4 +1,4 @@
-export const fakeDatabase = [
+const fakeDatabase = [
   {
     id: 1,
     name: "MacBook",
@@ -63,3 +63,5 @@ export const fakeDatabase = [
     image: "http://intocode.ru/d/react-project-1/images/9.jpg"
   }
 ];
+
+export default fakeDatabase
